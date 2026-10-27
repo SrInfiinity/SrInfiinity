@@ -1,6 +1,6 @@
 
 <!-- ==================== HEADER ==================== -->
-
+<img src="assets/stars-background.png" alt="Black and white starfield">
 <h1 align="center">Miguel Nunes</h1>
 
 <h3 align="center">Programming Student | Web Development</h3>
