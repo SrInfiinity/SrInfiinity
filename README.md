@@ -67,6 +67,13 @@
 
 <h2 align="center">🚀 Projects</h2>
 
+<img
+  align="right"
+  src="assets/astronaut.png"
+  width="220"
+  alt="Astronaut, satellite and planet in monochrome"
+/>
+
 <h3>🎬 InfyReels</h3>
 
 <p>
@@ -85,6 +92,8 @@
   projects, building websites and experimenting with different
   technologies.
 </p>
+
+<br clear="right"/>
 
 ---
 
