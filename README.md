@@ -70,7 +70,7 @@
 <img
   align="right"
   src="assets/astronaut.png"
-  width="220"
+  width="380"
   alt="Astronaut, satellite and planet in monochrome"
 />
 
@@ -96,7 +96,6 @@
 <br clear="right"/>
 
 ---
-
 <!-- ==================== TECH STACK ==================== -->
 
 <h2 align="center">💻 Tech Stack</h2>
