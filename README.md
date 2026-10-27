@@ -19,49 +19,44 @@
 
 <!-- ==================== ABOUT ME ==================== -->
 
-
-<!-- ==================== ABOUT ME ==================== -->
-
 <h2 align="center">⭐ About Me</h2>
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
+<img
+  align="right"
+  src="assets/saturn.png"
+  width="280"
+  alt="Saturn in monochrome pixel art"
+/>
 
-      <p>
-        Hi! I'm Miguel Nunes, also known as Infinity, a programming
-        student passionate about technology, web development,
-        and creating things from scratch.
-      </p>
+<p>
+  Hi! I'm Miguel Nunes, also known as Infinity, a programming
+  student passionate about technology, web development,
+  and creating things from scratch.
+</p>
 
-      <p>
-        I enjoy exploring new technologies, solving problems,
-        and turning ideas into functional projects. I'm constantly
-        learning, experimenting, and improving my skills as a developer.
-      </p>
+<p>
+  I enjoy exploring new technologies, solving problems,
+  and turning ideas into functional projects. I'm constantly
+  learning, experimenting, and improving my skills as a developer.
+</p>
 
-      <p>
-        My current focus is on <b>Web Development</b>,
-        <b>Software Development</b>, and building projects that
-        combine functionality with a good user experience.
-      </p>
+<p>
+  My current focus is on <b>Web Development</b>,
+  <b>Software Development</b>, and building projects that
+  combine functionality with a good user experience.
+</p>
 
-      <h3>Currently:</h3>
+<h3>Currently:</h3>
 
-      <ul>
-        <li>🎓 Studying programming and software development.</li>
-        <li>💻 Learning and improving my web development skills.</li>
-        <li>🛠️ Working with HTML, CSS, JavaScript, PHP, and MySQL.</li>
-        <li>🌐 Exploring WordPress and website development.</li>
-        <li>🚀 Building projects and learning through practice.</li>
-      </ul>
+<ul>
+  <li>🎓 Studying programming and software development.</li>
+  <li>💻 Learning and improving my web development skills.</li>
+  <li>🛠️ Working with HTML, CSS, JavaScript, PHP, and MySQL.</li>
+  <li>🌐 Exploring WordPress and website development.</li>
+  <li>🚀 Building projects and learning through practice.</li>
+</ul>
 
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="assets/saturn.png" width="100%" alt="Saturn in monochrome pixel art"/>
-    </td>
-  </tr>
-</table>
+<br clear="right"/>
 
 ---
 
