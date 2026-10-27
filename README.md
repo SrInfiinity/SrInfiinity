@@ -128,10 +128,6 @@
   <a href="mailto:miguelnunes290507@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/984424346040811550">
-    <img src="https://skillicons.dev/icons?i=discord" height="45" />
-  </a>
 </p>
 
 <br clear="right"/>
