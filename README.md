@@ -1,7 +1,9 @@
 
 <!-- ==================== HEADER ==================== -->
 <img src="assets/stars-background.png" alt="Black and white starfield" width="100%">
-
+<p align="center">
+  <img src="assets/stars.svg" width="100%" alt="Tiny stars">
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Miguel+Nunes;%3E+SrInfiinity;%3E+Miguel+Nunes" alt="Typing SVG" />
 </p>
