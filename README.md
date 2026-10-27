@@ -1,20 +1,25 @@
 
 <!-- ==================== HEADER ==================== -->
-<img src="assets/stars-background.png" alt="Black and white starfield">
+<img src="assets/stars-background.png" alt="Black and white starfield" width="100%">
+
 <p align="center">
-  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Miguel+Nunes;%3E+SrInfiinity;+%3E+Miguel+Nunes; alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Miguel+Nunes;%3E+SrInfiinity;%3E+Miguel+Nunes" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Programming Student | Web Development</h3>
 
 <p align="center">
-  > Turning ideas into code.<br>
-  > Learning through every challenge.<br>
-  > Building something better, one line at a time.
+  &gt; Turning ideas into code.<br>
+  &gt; Learning through every challenge.<br>
+  &gt; Building something better, one line at a time.
 </p>
 
 <p align="center">
   Curious mind. Creative thinking. Endless possibilities.
+</p>
+
+<p align="center">
+  <img src="assets/stars.svg" width="100%" alt="Tiny stars">
 </p>
 
 ---
@@ -44,7 +49,7 @@
 
 <p>
   My current focus is on <b>Web Development</b>,
-  <b>Software Development</b>, <b>Cybersecurity</b>, 
+  <b>Software Development</b>, <b>Cybersecurity</b>,
   <b>Artificial Intelligence</b> and building projects that
   combine functionality with a good user experience.
 </p>
@@ -60,6 +65,10 @@
 </ul>
 
 <br clear="right"/>
+
+<p align="center">
+  <img src="assets/stars.svg" width="100%" alt="Tiny stars">
+</p>
 
 ---
 
@@ -95,19 +104,26 @@
 
 <br clear="right"/>
 
+<p align="center">
+  <img src="assets/stars.svg" width="100%" alt="Tiny stars">
+</p>
+
 ---
+
 <!-- ==================== TECH STACK ==================== -->
 
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,py,html,css,js,react,php,mysql,git,github,bash"
-  height="45" />
+  <img src="https://skillicons.dev/icons?i=c,py,html,css,js,react,php,mysql,git,github,bash" height="45" alt="Programming languages and tools">
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux,windows" 
-  height="45" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux,windows" height="45" alt="Development environments and operating systems">
+</p>
+
+<p align="center">
+  <img src="assets/stars.svg" width="100%" alt="Tiny stars">
 </p>
 
 ---
@@ -123,39 +139,45 @@
 </p>
 
 <p align="center">
-  "The Universe is vast and ever-expanding, just like our dreams.."
+  "The Universe is vast and ever-expanding, just like our dreams."
+</p>
+
+<p align="center">
+  <img src="assets/stars.svg" width="100%" alt="Tiny stars">
 </p>
 
 ---
 
 <!-- ==================== FOOTER ==================== -->
-<img src="assets/clouds.jpg" alt="Clouds">
+
+<img src="assets/clouds.jpg" alt="Clouds" width="100%">
+
 <p align="center">
   Thanks for visiting my profile!
 </p>
-<br clear="right"/>
 
- <h2 align="center">🤝 Talk to me!</h2>
+<h2 align="center">🤝 Talk to me!</h2>
 
 <p align="center">
   <a href="https://github.com/SrInfiinity">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/miguel-nunes-369a613b5"/>
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  <a href="https://www.linkedin.com/in/miguel-nunes-369a613b5">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:miguelnunes290507@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email">
   </a>
 </p>
 
 <br clear="right"/>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Goodbye+!;%3E+Tchau+!;%3E+Adios+!;%3E+Au+revoir+!;%3E+Tschuss+!;%3E+Ciao+!;%3E+Sayonara+!;%3E+Zaijian+!;%3E+Do+svidaniya+!;%3E+Annyeong+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Goodbye+!;%3E+Tchau+!;%3E+Adios+!;%3E+Au+revoir+!;%3E+Tschuss+!;%3E+Ciao+!;%3E+Sayonara+!;%3E+Zaijian+!;%3E+Do+svidaniya+!;%3E+Annyeong+!" alt="Multilingual goodbye animation">
 </p>
 
 <p align="center">
-  <i>💜Keep learning. Keep building. Keep exploring. Life can be tough sometimes🖤</i>
+  <i>💜 Keep learning. Keep building. Keep exploring. Life can be tough sometimes 🖤</i>
 </p>
