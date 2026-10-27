@@ -19,7 +19,7 @@
 
 <!-- ==================== ABOUT ME ==================== -->
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">⭐ About Me</h2>
 
 <p>
   Hi! I'm Miguel Nunes or Infinity, a programming student passionate about
@@ -107,7 +107,7 @@
 </p>
 
 <p align="center">
-  "Every expert was once a beginner."
+  "The Universe is vast and ever-expanding, just like our dreams.."
 </p>
 
 ---
