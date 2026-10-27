@@ -145,7 +145,7 @@
 
 <br clear="right"/>
 <p align="center">
-  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Good+Bye+!;%3E+Tchau+!;+%3E+Adios+!; alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Goodbye+!;%3E+Tchau+!;%3E+Adios+!;%3E+Au+revoir+!;%3E+Tschuss+!;%3E+Ciao+!;%3E+Sayonara+!;%3E+Zaijian+!;%3E+Do+svidaniya+!;%3E+Annyeong+!" alt="Typing SVG" />
 </p>
 
 <p align="center">
