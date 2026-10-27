@@ -147,5 +147,5 @@
 </p>
 
 <p align="center">
-  <i>Keep learning. Keep building. Keep exploring. Life can be tough sometimes.</i>
+  <i>💜Keep learning. Keep building. Keep exploring. Life can be tough sometimes🖤</i>
 </p>
