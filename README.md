@@ -80,18 +80,13 @@
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <b>Frontend</b><br>
-  HTML · CSS · JavaScript
+  <img src="https://skillicons.dev/icons?i=c,py,html,css,js,react,php,mysql,git,github,bash"
+  height="45" />
 </p>
 
 <p align="center">
-  <b>Backend & Database</b><br>
-  PHP · MySQL
-</p>
-
-<p align="center">
-  <b>Tools & Platforms</b><br>
-  Git · GitHub · WordPress · VS Code
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux,windows" 
+  height="45" />
 </p>
 
 ---
