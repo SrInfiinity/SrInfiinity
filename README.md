@@ -42,7 +42,8 @@
 
 <p>
   My current focus is on <b>Web Development</b>,
-  <b>Software Development</b>, <b>Cybersecurity</b>, <b>Artificial Intelligence</b> and building projects that
+  <b>Software Development</b>, <b>Cybersecurity</b>, 
+  <b>Artificial Intelligence</b> and building projects that
   combine functionality with a good user experience.
 </p>
 
