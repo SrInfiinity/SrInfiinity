@@ -119,7 +119,7 @@
 ---
 
 <!-- ==================== FOOTER ==================== -->
-
+<img src="assets/clouds.png" alt="Clouds">
 <p align="center">
   Thanks for visiting my profile!
 </p>
