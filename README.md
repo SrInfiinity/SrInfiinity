@@ -30,7 +30,7 @@
 
 <p>
   Hi! I'm Miguel Nunes, also known as Infinity, a programming
-  student passionate about technology, web development,
+  student passionate about technology, web development, video editing
   and creating things from scratch.
 </p>
 
@@ -42,7 +42,7 @@
 
 <p>
   My current focus is on <b>Web Development</b>,
-  <b>Software Development</b>, and building projects that
+  <b>Software Development</b>, <b>Cybersecurity</b>, <b>Artificial Intelligence</b> and building projects that
   combine functionality with a good user experience.
 </p>
 
