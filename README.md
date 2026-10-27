@@ -117,6 +117,29 @@
 <p align="center">
   Thanks for visiting my profile!
 </p>
+<br clear="right"/>
+
+ <h2 align="center">🤝 Talk to me!</h2>
+
+<p align="center">
+  <a href="https://github.com/SrInfiinity">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/miguel-nunes-369a613b5"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:miguelnunes290507@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/984424346040811550">
+    <img src="https://skillicons.dev/icons?i=discord" height="45" />
+  </a>
+</p>
+
+<br clear="right"/>
 <p align="center">
   <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying;Just+Code+Nig alt="Typing SVG" />
 </p>
