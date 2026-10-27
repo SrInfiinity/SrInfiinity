@@ -1,7 +1,7 @@
 
 <!-- ==================== HEADER ==================== -->
 
-<h1 align="center">SrInfiinity</h1>
+<h1 align="center">Miguel Nunes</h1>
 
 <h3 align="center">Programming Student | Web Development</h3>
 
